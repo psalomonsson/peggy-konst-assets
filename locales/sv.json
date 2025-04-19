@@ -1,0 +1,34 @@
+{
+  "header": {
+    "title": "peggy.konst",
+    "subtitle": "Samtida konstnär"
+  },
+  "hero": {
+    "title": "Utforskar färg och känsla",
+    "description": "Genom livfulla nyanser och djärva penseldrag fångas naturens skönhet i sin essens."
+  },
+  "gallery": {
+    "title": "Galleri",
+    "seeAll": "Se alla målningar",
+    "backToHome": "Tillbaka till startsidan"
+  },
+  "about": {
+    "title": "Om Peggy Granlund",
+    "bio": [
+      "Peggy Granlund är en passionerad konstnär baserad i det charmiga området Brevik i Tyresö, Sverige. Hennes inspiration hämtar hon från de många platser hon har besökt, från djur och föremål i hennes omgivning – och ibland från platser som bara existerar i hennes fantasi.",
+      "Peggy älskar den kreativa processen – oavsett om hon tillbringar timmar med ett detaljrikt verk eller utforskar friheten i en mer spontan och uttrycksfull stil. Hon uppskattar båda tillvägagångssätten lika mycket och låter varje målning ta den form som känns naturlig.",
+      "Varje målning Peggy skapar bär på en berättelse. Tveka inte att fråga henne om hennes verk om du träffar henne – hon delar gärna med sig av historierna bakom varje målning, lika mycket som hon tycker om att höra hur andra upplever dem.",
+      "Faktum är att om hennes konst väcker en egen berättelse eller ett minne hos dig, skulle hon bli väldigt glad om du ville dela det med henne. För Peggy är just den kopplingen – mellan konst, konstnär och betraktare – en av de vackraste delarna med att vara konstnär."
+    ]
+  },
+  "sales": {
+    "message": "Alla målningar finns till försäljning! Oavsett om du letar efter en konstinvestering eller helt enkelt förälskar dig i ett verk du vill ta med hem, så skulle det vara fantastiskt att höra från dig. Tveka inte att kontakta mig via e-post vid frågor eller intresse!"
+  },
+  "footer": {
+    "socialLinks": {
+      "instagram": "Instagram",
+      "facebook": "Facebook"
+    },
+    "copyright": "© {year} Peggy Granlund. Alla rättigheter förbehållna."
+  }
+}
