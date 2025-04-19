@@ -1,14 +1,8 @@
-
 [
   {
-    "title": "Woman in Red",
-    "description": "A striking portrait featuring a woman in a red dress against a vibrant yellow background, expressing strength and elegance.",
-    "imagePath": "lovable-uploads/16521d86-a5f0-41ab-91ad-b7011303b6e1.png"
-  },
-  {
-    "title": "Stockholm Street",
-    "description": "A cityscape capturing the essence of Stockholm's architecture, with its characteristic yellow buildings and church spires.",
-    "imagePath": "lovable-uploads/3b98b441-6fb1-4135-b684-f596f7de2d74.png"
+    "title": "Morning Walk",
+    "description": "A person and their loyal dog companion taking a morning stroll along vibrant city streets.",
+    "imagePath": "lovable-uploads/0c662328-3eb7-4365-a96d-5ea390f5a097.png"
   },
   {
     "title": "Rainy Day",
@@ -16,9 +10,9 @@
     "imagePath": "lovable-uploads/671b9c76-a1e0-4690-a076-9c05ae26168a.png"
   },
   {
-    "title": "Morning Walk",
-    "description": "A person and their loyal dog companion taking a morning stroll along vibrant city streets.",
-    "imagePath": "lovable-uploads/0c662328-3eb7-4365-a96d-5ea390f5a097.png"
+    "title": "Stockholm Street",
+    "description": "A cityscape capturing the essence of Stockholm's architecture, with its characteristic yellow buildings and church spires.",
+    "imagePath": "lovable-uploads/3b98b441-6fb1-4135-b684-f596f7de2d74.png"
   },
   {
     "title": "Spring Tulips",
@@ -34,5 +28,10 @@
     "title": "Pelican Portrait",
     "description": "A majestic pelican portrayed in detail, highlighting its distinctive features against a moody background.",
     "imagePath": "lovable-uploads/cab90ed3-274b-4754-9043-a57087c3dd31.png"
+  },
+  {
+    "title": "Woman in Red",
+    "description": "A striking portrait featuring a woman in a red dress against a vibrant yellow background, expressing strength and elegance.",
+    "imagePath": "lovable-uploads/16521d86-a5f0-41ab-91ad-b7011303b6e1.png"
   }
 ]
