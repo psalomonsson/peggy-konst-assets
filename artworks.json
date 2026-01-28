@@ -1,85 +1,93 @@
 [
   {
-    "title": "Titel",
-    "description": "Placeholder description...",
+    "title": "Måsen i Roscoff",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_1629.jpg",
     "sold": false
   },
   {
-    "title": "Titel",
-    "description": "Placeholder description...",
+    "title": "Nyår III",
+    "description": "Krabba",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0660.jpg",
     "sold": false
   },
   {
-    "title": "Morning Walk",
-    "description": "A person and their loyal dog companion taking a morning stroll along vibrant city streets.",
+    "title": "Tillsammans",
+    "description": "Ljus och mörker. Kallt och varmt. Nu och då",
+    "size": "60x60x4 cm",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0846.jpg",
     "sold": false
   },
   {
-    "title": "Rainy Day",
-    "description": "Figures with umbrellas walking through narrow streets, their silhouettes reflected in the wet cobblestones.",
+    "title": "Bokklubb i Piemonte",
+    "description": "Speglingar och siluetter",
+    "size": "50x40x4 cm",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0845.jpg",
     "sold": true
   },
   {
-    "title": "Stockholm Street",
-    "description": "A cityscape capturing the essence of Stockholm's architecture, with its characteristic yellow buildings and church spires.",
+    "title": "Hantverkargatan",
+    "size": "100x120x4 cm",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0843.jpg",
     "sold": false
   },
   {
-    "title": "Spring Tulips",
-    "description": "A bouquet of pink and coral tulips captured in full bloom against a serene blue background.",
+    "title": "Evas favoriter",
+    "description": "Tulpaner på Kvarnholmen",
+    "size": "40x50x4 cm",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0855.jpg",
     "sold": false
   },
   {
-    "title": "Magnolia Dreams",
-    "description": "Delicate magnolia blossoms rendered in soft yellows and pinks, showcasing nature's elegant beauty.",
+    "title": "Vårens färger",
+    "description": "Magnolia, naturens skönhet",
+    "size": "100x100 cm",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0862.jpg",
     "sold": true
   },
   {
-    "title": "Pelican Portrait",
-    "description": "A majestic pelican portrayed in detail, highlighting its distinctive features against a moody background.",
+    "title": "Herr Pelikan",
+    "description": "Porträtterad, majestätisk pelikan",
+    "size": "70x100 cm",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0864.jpg",
     "sold": true
   },
   {
-    "title": "Woman in Red",
-    "description": "A striking portrait featuring a woman in a red dress against a vibrant yellow background, expressing strength and elegance.",
+    "title": "Barhäng",
+    "size": "100x120 cm",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0842.jpg",
     "sold": false
   },
   {
     "title": "Hong Kong",
-    "description": "Placeholder description...",
+    "description": "Himmel i Hong Kong",
+    "size": "40x50 cm",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0854.jpg",
     "sold": true
   },
   {
-    "title": "Vinprovning",
-    "description": "Placeholder description...",
+    "title": "Touriga Franca, Douro",
+    "description": "LUS",
+    "size": "60x60x4 cm",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0847.jpg",
     "sold": false
   },
   {
     "title": "Sommar- och Vinterko",
-    "description": "Placeholder description...",
+    "size": "22x27x4 cm",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0849.jpg",
     "sold": false
   },
   {
-    "title": "Stockholm Street II",
-    "description": "Placeholder description...",
+    "title": "Vinterljus över Hantverkargatan",
+    "description": "Vägen till förskolan…",
+    "size": "100x100x4 cm",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0850.jpg",
     "sold": false
   },
   {
     "title": "Förgänglig",
-    "description": "Placeholder description...",
+    "description": "Vindens önskningar",
+    "size": "50x100x4 cm",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0853.jpg",
     "sold": false
   }
