@@ -13,16 +13,15 @@
     "backToHome": "Tillbaka till startsidan"
   },
   "about": {
-    "title": "Om Peggy Granlund",
+    "title": "Om konstnären",
     "bio": [
-      "Peggy Granlund är en passionerad konstnär baserad i det charmiga området Brevik i Tyresö, Sverige. Hennes inspiration hämtar hon från de många platser hon har besökt, från djur och föremål i hennes omgivning – och ibland från platser som bara existerar i hennes fantasi.",
-      "Peggy älskar den kreativa processen – oavsett om hon tillbringar timmar med ett detaljrikt verk eller utforskar friheten i en mer spontan och uttrycksfull stil. Hon uppskattar båda tillvägagångssätten lika mycket och låter varje målning ta den form som känns naturlig.",
-      "Varje målning Peggy skapar bär på en berättelse. Tveka inte att fråga henne om hennes verk om du träffar henne – hon delar gärna med sig av historierna bakom varje målning, lika mycket som hon tycker om att höra hur andra upplever dem.",
-      "Faktum är att om hennes konst väcker en egen berättelse eller ett minne hos dig, skulle hon bli väldigt glad om du ville dela det med henne. För Peggy är just den kopplingen – mellan konst, konstnär och betraktare – en av de vackraste delarna med att vara konstnär."
+      "Peggy Granlund är en passionerad konstnär verksam i skärgårdsmiljö på Tyresö Brevik. Hennes bildvärld formas av platser hon har besökt och av det som finns nära – djur, föremål och minnesbilder som med tiden blir uttryck i måleriet.",
+      "Peggy drivs av den kreativa processen i sig. Hon rör sig fritt mellan detaljrika, tidskrävande verk och ett mer spontant, intuitivt måleri där känsla och rörelse får styra. För henne är båda förhållningssätten lika värdefulla.",
+      "Varje målning bär på en egen berättelse och lämnar samtidigt utrymme för betraktarens tolkning. Peggy värdesätter mötet mellan bild och betraktare högt och ser det som något levande, där nya betydelser kan uppstå i samtalet kring konsten. När en målning väcker minnen, känslor eller personliga berättelser hos andra, blir verket komplett."
     ]
   },
   "sales": {
-    "message": "Alla målningar finns till försäljning! Oavsett om du letar efter en konstinvestering eller helt enkelt förälskar dig i ett verk du vill ta med hem, så skulle det vara fantastiskt att höra från dig. Tveka inte att kontakta mig via e-post vid frågor eller intresse!"
+    "message": "Alla målningar är tillgängliga för försäljning. Vid intresse eller frågor är du välkommen att ta kontakt via mejl: granlund.peggy@gmail.com"
   },
   "footer": {
     "socialLinks": {

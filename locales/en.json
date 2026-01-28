@@ -1,4 +1,3 @@
-
 {
   "header": {
     "title": "peggy.konst",
@@ -14,15 +13,15 @@
     "backToHome": "Back to Home"
   },
   "about": {
-    "title": "About Peggy Granlund",
+    "title": "About the Artist",
     "bio": [
-      "Peggy Granlund is a passionate painter based in the charming area of Brevik in Tyresö, Sweden. Her inspiration comes from the many places she has visited, the animals and objects around her, and sometimes from places that exist only in her imagination.",
-      "Peggy loves the creative process itself—whether she's spending hours on a highly detailed piece or exploring the freedom of a more spontaneous, expressive style. She appreciates both approaches equally, letting each painting take on the form it naturally calls for.",
-      "Every painting Peggy creates carries a story. Don't hesitate to ask her about her work if you meet her—she loves sharing the tales behind each piece just as much as she loves hearing how others experience them. In fact, if her art sparks your own story or memory, she would be delighted if you shared it with her. For Peggy, that connection—between art, artist, and viewer—is one of the most beautiful parts of being a painter."
+      "Peggy Granlund is a passionate artist working in the archipelago environment of Tyresö Brevik. Her visual world is shaped by places she has visited and by what is close at hand – animals, objects, and memory images that over time become expressions in her painting.",
+      "Peggy is driven by the creative process itself. She moves freely between detailed, time-consuming works and a more spontaneous, intuitive painting where feeling and movement take the lead. For her, both approaches are equally valuable.",
+      "Each painting carries its own story while simultaneously leaving room for the viewer's interpretation. Peggy highly values the encounter between image and viewer and sees it as something living, where new meanings can emerge in the conversation around the art. When a painting evokes memories, feelings, or personal stories in others, the work becomes complete."
     ]
   },
   "sales": {
-    "message": "All paintings are available for sale! Whether you're looking to invest in art or simply fall in love with a piece you'd like to bring home, I'd love to hear from you. Feel free to reach out to me via email with any questions or interest!"
+    "message": "All paintings are available for sale. If you're interested or have questions, you're welcome to get in touch via email: granlund.peggy@gmail.com"
   },
   "footer": {
     "socialLinks": {
