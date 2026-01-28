@@ -1,5 +1,17 @@
 [
   {
+    "title": "Titel",
+    "description": "Placeholder description...",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_1629.jpg",
+    "sold": false
+  },
+  {
+    "title": "Titel",
+    "description": "Placeholder description...",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0660.jpg",
+    "sold": false
+  },
+  {
     "title": "Morning Walk",
     "description": "A person and their loyal dog companion taking a morning stroll along vibrant city streets.",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0846.jpg",
@@ -69,18 +81,6 @@
     "title": "Förgänglig",
     "description": "Placeholder description...",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0853.jpg",
-    "sold": false
-  },
-  {
-    "title": "Titel",
-    "description": "Placeholder description...",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_1629.jpg",
-    "sold": false
-  },
-  {
-    "title": "Titel",
-    "description": "Placeholder description...",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0660.jpg",
     "sold": false
   }
 ]
