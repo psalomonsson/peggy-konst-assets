@@ -70,5 +70,11 @@
     "description": "Placeholder description...",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0853.jpg",
     "sold": false
+  },
+  {
+    "title": "Titel",
+    "description": "Placeholder description...",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_1629.jpg",
+    "sold": false
   }
 ]
