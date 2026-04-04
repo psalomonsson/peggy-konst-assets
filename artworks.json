@@ -90,5 +90,59 @@
     "size": "50x100x4 cm",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/forganglig.webp",
     "sold": true
+  },
+  {
+    "title": "Rosa magnolia",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/rosa-magnolia.webp",
+    "size": "40x50x4 cm",
+    "sold": false
+  },
+  {
+    "title": "Twins x 2",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/twins-x-2.webp",
+    "size": "23x32 cm",
+    "sold": false
+  },
+  {
+    "title": "Twins",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/twins.webp",
+    "size": "23x32 cm",
+    "sold": false
+  },
+  {
+    "title": "Sol efter regn",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/sol-efter-regn.webp",
+    "size": "100x70x4 cm",
+    "sold": false
+  },
+  {
+    "title": "Gråhägern",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/grahagern.webp",
+    "size": "100x120x4 cm",
+    "sold": false
+  },
+  {
+    "title": "Luktärt II",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/luktart-ii.webp",
+    "size": "20x20x4 cm",
+    "sold": false
+  },
+  {
+    "title": "Luktärt I",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/luktart-i.webp",
+    "size": "20x20x4 cm",
+    "sold": false
+  },
+  {
+    "title": "De vilda",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/de-vilda.webp",
+    "size": "30x30x4 cm",
+    "sold": false
+  },
+  {
+    "title": "Hej iris!",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/hej-iris.webp",
+    "size": "15x35x4 cm",
+    "sold": false
   }
 ]
