@@ -40,8 +40,47 @@ for img in gallery-original/*.jpg; do
 done
 ```
 
-3. For each new image, add an entry to `artworks.json` with `imagePath` pointing to:
+3. Add an entry to `artworks.json` with `imagePath` pointing to the original filename:
    `https://psalomonsson.github.io/peggy-konst-assets/gallery-web/<FILENAME>.webp`
+
+4. Rename images to match their titles by running this script (renames both folders + updates `artworks.json`):
+
+```bash
+python3 << 'EOF'
+import json, re, unicodedata, os
+
+def slugify(title):
+    nfkd = unicodedata.normalize('NFKD', title)
+    ascii_str = nfkd.encode('ascii', 'ignore').decode('ascii')
+    return re.sub(r'[^a-z0-9]+', '-', ascii_str.lower()).strip('-')
+
+base = '.'
+
+with open(f'{base}/artworks.json') as f:
+    artworks = json.load(f)
+
+for a in artworks:
+    current = a['imagePath'].split('/')[-1]
+    stem = current.rsplit('.', 1)[0]
+    slug = slugify(a['title'])
+    if stem == slug:
+        continue  # already named correctly
+
+    for ext, folder in [('jpg', 'gallery-original'), ('webp', 'gallery-web')]:
+        src = f'{base}/{folder}/{stem}.{ext}'
+        dst = f'{base}/{folder}/{slug}.{ext}'
+        if os.path.exists(src):
+            os.rename(src, dst)
+            print(f'{folder}: {stem}.{ext} → {slug}.{ext}')
+
+    a['imagePath'] = a['imagePath'].replace(f'gallery-web/{stem}.webp', f'gallery-web/{slug}.webp')
+
+with open(f'{base}/artworks.json', 'w') as f:
+    json.dump(artworks, f, ensure_ascii=False, indent=2)
+
+print('artworks.json updated.')
+EOF
+```
 
 ## Parameters (adjust if needed)
 | Parameter | Value | Notes |
