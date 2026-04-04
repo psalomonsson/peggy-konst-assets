@@ -1,94 +1,94 @@
 [
   {
     "title": "Måsen i Roscoff",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_1629.jpg",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/IMG_1629.webp",
     "sold": false
   },
   {
     "title": "Nyår III",
     "description": "Krabba",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0660.jpg",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/IMG_0660.webp",
     "sold": false
   },
   {
     "title": "Tillsammans",
     "description": "Ljus och mörker. Kallt och varmt. Nu och då",
     "size": "60x60x4 cm",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0846.jpg",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/IMG_0846.webp",
     "sold": false
   },
   {
     "title": "Bokklubb i Piemonte",
     "description": "Speglingar och siluetter",
     "size": "50x40x4 cm",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0845.jpg",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/IMG_0845.webp",
     "sold": true
   },
   {
     "title": "Hantverkargatan",
     "size": "100x120x4 cm",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0843.jpg",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/IMG_0843.webp",
     "sold": false
   },
   {
     "title": "Evas favoriter",
     "description": "Tulpaner på Kvarnholmen",
     "size": "40x50x4 cm",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0855.jpg",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/IMG_0855.webp",
     "sold": true
   },
   {
     "title": "Vårens färger",
     "description": "Magnolia, naturens skönhet",
     "size": "100x100 cm",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0862.jpg",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/IMG_0862.webp",
     "sold": true
   },
   {
     "title": "Herr Pelikan",
     "description": "Porträtterad, majestätisk pelikan",
     "size": "70x100 cm",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0864.jpg",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/IMG_0864.webp",
     "sold": true
   },
   {
     "title": "Barhäng",
     "size": "100x120 cm",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0842.jpg",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/IMG_0842.webp",
     "sold": false
   },
   {
     "title": "Hong Kong",
     "description": "Himmel i Hong Kong",
     "size": "40x50 cm",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0854.jpg",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/IMG_0854.webp",
     "sold": true
   },
   {
     "title": "Touriga Franca, Douro",
     "description": "LUS",
     "size": "60x60x4 cm",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0847.jpg",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/IMG_0847.webp",
     "sold": false
   },
   {
     "title": "Sommar- och Vinterko",
     "size": "22x27x4 cm",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0849.jpg",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/IMG_0849.webp",
     "sold": false
   },
   {
     "title": "Vinterljus över Hantverkargatan",
     "description": "Vägen till förskolan…",
     "size": "100x100x4 cm",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0850.jpg",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/IMG_0850.webp",
     "sold": false
   },
   {
     "title": "Förgänglig",
     "description": "Vindens önskningar",
     "size": "50x100x4 cm",
-    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery/IMG_0853.jpg",
+    "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/IMG_0853.webp",
     "sold": false
   }
 ]
