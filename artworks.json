@@ -2,12 +2,14 @@
   {
     "title": "Måsen i Roscoff",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/masen-i-roscoff.webp",
+    "size": "80x80x4 cm",
     "sold": false
   },
   {
     "title": "Nyår III",
     "description": "Krabba",
     "imagePath": "https://psalomonsson.github.io/peggy-konst-assets/gallery-web/nyar-iii.webp",
+    "size": "120x100x4 cm",
     "sold": false
   },
   {
